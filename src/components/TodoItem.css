@@ -1,6 +1,8 @@
 .todo-item {
   margin-top: 1rem;
-  border: 1px solid green;
+  border-radius: 4px;
+  background-color: grey;
+  color: white;
   padding: 10px;
   display: flex;
   justify-content: space-between;
@@ -9,10 +11,9 @@
 .overDue {
   background-color: rgb(162, 46, 46);
   border-color: rgb(162, 46, 46);
-  color: white;
 }
 
 .complete {
-  background-color: green;
+  background-color: rgb(70, 116, 70);
   text-decoration: line-through;
 }

@@ -43,7 +43,7 @@ function App() {
   return (
     <>
       <div className="header">
-        <h1>ToDO App</h1>
+        <h1>ToDo App</h1>
       </div>
 
       <div className="todo-container">
