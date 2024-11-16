@@ -1,0 +1,18 @@
+.todo-item {
+  margin-top: 1rem;
+  border: 1px solid green;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.overDue {
+  background-color: rgb(162, 46, 46);
+  border-color: rgb(162, 46, 46);
+  color: white;
+}
+
+.complete {
+  background-color: green;
+  text-decoration: line-through;
+}

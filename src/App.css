@@ -1,0 +1,9 @@
+.header {
+  padding: 10px;
+  background: blue;
+}
+
+.todo-container {
+  max-width: 500px;
+  margin: 0 auto;
+}
